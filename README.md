@@ -9,7 +9,7 @@ legacy code or create some new code with
 function GetEnvironmentVariable(const Name: string): string; found in the
 *System.SysUtils* library.
 
-Check out Bayesean Blog <https://bayeseanblog.com/blog/delphi-using-environment-variables-in-your-app/26>
+Check out Bayesean Blog https://bayeseanblog.com/blog/delphi-using-environment-variables-in-your-app/26
  
 ![](media/742fd6bbbc073728bf015f050b961396.gif)
 
